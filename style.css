@@ -1,0 +1,12 @@
+button{
+    background-color: blue;
+}
+.Container {
+    width: 40vw;
+    height: 40vw;
+    background-color:rgb(30, 27, 27);
+    color:white;
+    padding: 12px;
+  
+
+}
